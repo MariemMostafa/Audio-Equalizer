@@ -162,4 +162,3 @@ subplot(2,2,4);
 plot(Fvec,angle(originalfreq));       %plot filtered signal (phase)
 title('Original Signal (Phase)');
 
-%audiowrite('E:\Term 6\DSP\Assignment 4\FinalSound.wav',ynew,fs);
